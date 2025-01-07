@@ -1,5 +1,8 @@
 ## Hi I'm Chase 👋
 
+# Projects I'm currently working on
+ - Differential swerve drive
+
 <!--
 **ChaseHBehrens/ChaseHBehrens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
