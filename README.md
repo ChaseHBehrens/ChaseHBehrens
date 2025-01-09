@@ -1,6 +1,6 @@
 
 ## Hi I'm Chase 👋
-<p style="font-size: 24px;">
+<p style="font-size: 50px;">
 I am a Robotics engineering student studying at Worcester Polytechnic Institute. I love programming, designing mechanical systems, and building electronics. 
 
 ## What I'm working on
