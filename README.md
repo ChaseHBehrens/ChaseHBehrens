@@ -12,6 +12,7 @@ I am a Robotics engineering student studying at Worcester Polytechnic Institute.
 
 ## Languages and Software
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
+  <img src="https://github.com/user-attachments/assets/5da690a3-6bbd-4f21-ad9d-232694a699a6" width="50"/>
   <img src="https://github.com/user-attachments/assets/33492192-91de-4d32-87c1-88f5290dc6a0" width="50"/>
   <img src="https://github.com/user-attachments/assets/2657be5c-5252-4259-a50d-083e7def2983" width="50"/>
   <img src="https://github.com/user-attachments/assets/b8c4f472-3282-4e64-9353-844472847655" width="50"/>
