@@ -1,11 +1,10 @@
 
 ## Hi I'm Chase 👋
-<p style="font-size: 100px;">
 I am a Robotics engineering student studying at Worcester Polytechnic Institute. I love programming, designing mechanical systems, and building electronics. 
 
 ## What I'm working on
 - ⚙️ differential swerve drive
-- 🏡 robot lawn mower
+- 🏡 [robotic lawn mower](https://github.com/ChaseHBehrens/Robotic_Lawn_Mower)
 
 ## Recent projects
 - 🏰 kingdomino AI
