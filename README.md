@@ -8,3 +8,4 @@ I am a Robotics engineering student studying at Worcester Polytechnic Institute.
 ## Recent projects
 - 🏰 kingdomino AI
 - 👑 n-queens problem
+- 🤖 object collection robot
