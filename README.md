@@ -18,4 +18,4 @@ I am a Robotics engineering student studying at Worcester Polytechnic Institute.
   <img src="https://github.com/user-attachments/assets/b3cf1511-fa77-4a06-8a4f-f273d9f8e579" width="80" style="margin-right: 10px;" />
   <img src="https://github.com/user-attachments/assets/14d277e7-a527-4738-9f54-34c8e5d2134f" width="80" style="margin-right: 10px;" />
 </div>
----
+
