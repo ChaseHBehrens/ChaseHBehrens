@@ -11,6 +11,6 @@ I am a Robotics engineering student studying at Worcester Polytechnic Institute.
 - 🤖 object collection robot
 
 <div style="display: flex; justify-content: center;">
-  <img src="https://github.com/user-attachments/assets/3499ac6b-5fc2-4dda-81b9-34887cde60a2" width="20" style="margin-right: 10px;" />
-  <img src="https://github.com/user-attachments/assets/66bc25d7-4183-4fd8-9c81-24625813c346" width="20" />
+  <img src="https://github.com/user-attachments/assets/3499ac6b-5fc2-4dda-81b9-34887cde60a2" width="100" style="margin-right: 10px;" />
+  <img src="https://github.com/user-attachments/assets/66bc25d7-4183-4fd8-9c81-24625813c346" width="100" />
 </div>
