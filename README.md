@@ -9,3 +9,5 @@ I am a Robotics engineering student studying at Worcester Polytechnic Institute.
 - 🏰 kingdomino AI
 - 👑 n-queens problem
 - 🤖 object collection robot
+
+![image](https://github.com/user-attachments/assets/3499ac6b-5fc2-4dda-81b9-34887cde60a2)
