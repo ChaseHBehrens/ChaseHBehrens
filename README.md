@@ -3,12 +3,12 @@
 I am a Robotics engineering student studying at Worcester Polytechnic Institute. I love programming, designing mechanical systems, and building electronics. 
 
 ## What I'm working on
-⚙️ [differential swerve drive](https://github.com/ChaseHBehrens/Differential_Swerve_Drive)
+⚙️ [differential swerve drive](https://github.com/ChaseHBehrens/Differential_Swerve_Drive)<br>
 🏡 [robotic lawn mower](https://github.com/ChaseHBehrens/Robotic_Lawn_Mower)
 
 ## Recent projects
-🏰 [kingdomino AI](https://github.com/ChaseHBehrens/Kingdomino_AI)
-👑 [n-queens problem](https://github.com/ChaseHBehrens/N-Queens_Problem)
+🏰 [kingdomino AI](https://github.com/ChaseHBehrens/Kingdomino_AI)<br>
+👑 [n-queens problem](https://github.com/ChaseHBehrens/N-Queens_Problem)<br>
 🤖 [robotic lawn mower](https://github.com/ChaseHBehrens/Object_Collection_Robot)
 
 ## Languages and Software
