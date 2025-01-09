@@ -10,7 +10,7 @@ I am a Robotics engineering student studying at Worcester Polytechnic Institute.
 - 👑 n-queens problem
 - 🤖 object collection robot
 
-<hr style="width: 10%;"/>
+<hr style="border: 1px solid #000; width: 100%; margin-left: 0;">
 <div style="display: flex; justify-content: center;">
   <img src="https://github.com/user-attachments/assets/a9524694-21ad-4da0-ae3d-afac6130efcf" width="80" style="margin-right: 10px;" />
   <img src="https://github.com/user-attachments/assets/3499ac6b-5fc2-4dda-81b9-34887cde60a2" width="80" style="margin-right: 10px;" />
