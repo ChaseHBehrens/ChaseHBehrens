@@ -21,6 +21,6 @@ I am a Robotics engineering student studying at Worcester Polytechnic Institute.
   <img src="https://github.com/user-attachments/assets/7d5ffec8-5810-46c1-9c7c-d8617ec17f01" width="50"/>
   <img src="https://github.com/user-attachments/assets/7972d99a-0e8d-49ca-a8a2-338cdc2a847b" width="50"/>
   <img src="https://github.com/user-attachments/assets/bc75019c-cef6-4100-94a9-1f7e9c07c352" width="50"/>
-  <img src="https://github.com/user-attachments/assets/6ddfc22d-da33-4d93-bd48-30f432119fb4" width="50"/>
   <img src="https://github.com/user-attachments/assets/53410101-ea0c-4202-b36a-5054d361a5b7" width="50"/>
+  <img src="https://github.com/user-attachments/assets/6ddfc22d-da33-4d93-bd48-30f432119fb4" width="50"/>
 </div>
