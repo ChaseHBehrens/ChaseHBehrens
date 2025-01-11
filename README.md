@@ -9,7 +9,7 @@ I am a Robotics engineering student studying at Worcester Polytechnic Institute.
 ## Recent Projects
 🏰 [kingdomino AI](https://github.com/ChaseHBehrens/Kingdomino_AI)<br>
 👑 [n-queens problem](https://github.com/ChaseHBehrens/N-Queens_Problem)<br>
-🤖 [robotic lawn mower](https://github.com/ChaseHBehrens/Object_Collection_Robot)
+🤖 [object collection robot](https://github.com/ChaseHBehrens/Object_Collection_Robot)
 
 ## Languages and Software
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
