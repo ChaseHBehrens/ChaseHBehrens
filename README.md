@@ -7,10 +7,10 @@ I am a Robotics engineering student studying at Worcester Polytechnic Institute.
 🏡 [robotic lawn mower](https://github.com/ChaseHBehrens/Robotic_Lawn_Mower)
 
 ## Recent Projects
+🧙 [fantasy realms AI](https://github.com/ChaseHBehrens/Fantasy_Realms_AI)<br>
 🤖 [romi32u4 robot](https://github.com/ChaseHBehrens/Romi32u4_Robot)<br>
 🏰 [kingdomino AI](https://github.com/ChaseHBehrens/Kingdomino_AI)<br>
-👑 [n-queens problem](https://github.com/ChaseHBehrens/N-Queens_Problem)<br>
-🤖 [object collection robot](https://github.com/ChaseHBehrens/Object_Collection_Robot)
+👑 [n-queens problem](https://github.com/ChaseHBehrens/N-Queens_Problem)
 
 ## Languages and Software
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
