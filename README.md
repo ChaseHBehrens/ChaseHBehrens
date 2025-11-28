@@ -12,6 +12,7 @@ I am a Robotics engineering student studying at Worcester Polytechnic Institute.
 🏰 [Kingdomino AI](https://github.com/ChaseHBehrens/Kingdomino_AI)<br>
 👑 [n-queens problem](https://github.com/ChaseHBehrens/N-Queens_Problem)
 
+/*
 ## Languages and Software
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
   <img src="https://github.com/user-attachments/assets/5da690a3-6bbd-4f21-ad9d-232694a699a6" width="50"/>
@@ -27,3 +28,4 @@ I am a Robotics engineering student studying at Worcester Polytechnic Institute.
   <img src="https://github.com/user-attachments/assets/53410101-ea0c-4202-b36a-5054d361a5b7" width="50"/>
   <img src="https://github.com/user-attachments/assets/6ddfc22d-da33-4d93-bd48-30f432119fb4" width="50"/>
 </div>
+*/
