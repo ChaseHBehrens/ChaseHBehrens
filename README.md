@@ -7,7 +7,6 @@ I am a Robotics engineering student studying at Worcester Polytechnic Institute.
 🏡 [Robotic Lawn Mower](https://github.com/ChaseHBehrens/Robotic_Lawn_Mower)
 
 ## Recent Projects
-🧙 [Fantasy Realms AI](https://github.com/ChaseHBehrens/Fantasy_Realms_AI)<br>
+🤖 [Mapping Robot](https://github.com/ChaseHBehrens/Maze_Mapping_Robot)<br>
 🦾 [Robotic Arm](https://github.com/ChaseHBehrens/Robotic_Arm)<br>
-🤖 [Mapping Robot](https://github.com/ChaseHBehrens/Romi32u4_Robot)<br>
-🏰 [Kingdomino AI](https://github.com/ChaseHBehrens/Kingdomino_AI)
+🧙 [Fantasy Realms AI](https://github.com/ChaseHBehrens/Fantasy_Realms_AI)<br>
