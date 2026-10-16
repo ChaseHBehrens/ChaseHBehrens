@@ -3,7 +3,7 @@
 I am a Robotics engineering student studying at Worcester Polytechnic Institute. I love programming, and designing mechanical systems.
 
 ## Current Projects
-🖌️ Floor Painting Robot
+🖌️ Floor Painting Robot<br>
 🚂 Ticket to Ride Game AI<br>
 🐦 Wingspan Game AI<br>
 🏡 [Robotic Lawn Mower](https://github.com/ChaseHBehrens/Robotic_Lawn_Mower)
