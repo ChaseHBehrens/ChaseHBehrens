@@ -5,10 +5,10 @@ I am a Robotics engineering student studying at Worcester Polytechnic Institute.
 ## Current Projects
 🖌️ Floor Painting Robot<br>
 🚂 Ticket to Ride Game AI<br>
-🐦 Wingspan Game AI<br>
 🏡 [Robotic Lawn Mower](https://github.com/ChaseHBehrens/Robotic_Lawn_Mower)
 
 ## Recent Projects
+🐦 [Wingspan Game AI](https://github.com/ChaseHBehrens/LooNN-Wingspan-AI)<br>
 🏰 [Kingdomino Game AI](https://github.com/ChaseHBehrens/Kingdomino_AI)<br>
 🚙 [Acadia National Park Parking Simulation](https://github.com/ChaseHBehrens/Jordan-Pond-Parking-Simulation)<br>
 🤖 [Mapping Robot](https://github.com/ChaseHBehrens/Maze_Mapping_Robot)<br>
